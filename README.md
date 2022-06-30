@@ -1,2 +1,2 @@
 # Shell
-A research project on effient data structures for time series analysis
+A research project on efficient data structures for time series analysis
